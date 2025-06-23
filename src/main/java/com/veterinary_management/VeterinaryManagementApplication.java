@@ -11,4 +11,3 @@ public class VeterinaryManagementApplication {
 	}
 
 }
-//Uygulamayı çalıştırma alanı
